@@ -2,15 +2,16 @@
     {
         "id": 1,
         "title": "Atomic Habits",
-        "author": "Renz DC",
-        "date": "2025",
+        "author": "James Clear",
+        "date": "2018",
         "status": false
     },
     {
         "id": 2,
-        "title": "Deep Work",
-        "author": "Cal Newport",
-        "date": "2024",
+        "title": "Dorohedoro",
+        "author": "Hayashida",
+        "date": "2000",
         "status": true
     }
+     
 ]
