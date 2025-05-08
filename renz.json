@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Atomic Habits",
+        "author": "Renz DC",
+        "date": "2025",
+        "status": false
+    },
+    {
+        "id": 2,
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "date": "2024",
+        "status": true
+    }
+]
