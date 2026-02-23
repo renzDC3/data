@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_ACTUAL_API_KEY'; // Ensure this is valid
+const API_KEY = 'AIzaSyDh30gZ3wrZ2CUdfRUbartu51QRZpyOqos'; // Ensure this is valid
 const GEN_AI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 // Helper function to display messages in the UI
