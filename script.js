@@ -1,19 +1,28 @@
-// Replace with your actual key from https://aistudio.google.com/
-const API_KEY = 'AIzaSyDh30gZ3wrZ2CUdfRUbartu51QRZpyOqos'; 
+const API_KEY = 'YOUR_ACTUAL_API_KEY'; // Ensure this is valid
 const GEN_AI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+
+// Helper function to display messages in the UI
+function addMessage(text, className) {
+    const chatbox = document.getElementById('chatbox');
+    const msgDiv = document.createElement('div');
+    msgDiv.className = className;
+    msgDiv.innerText = text;
+    chatbox.appendChild(msgDiv);
+    
+    // Auto-scroll to the bottom
+    chatbox.scrollTop = chatbox.scrollHeight;
+}
 
 async function askChatbot() {
     const province = document.getElementById('provinceInput').value.trim();
     const city = document.getElementById('cityInput').value.trim();
-    const chatbox = document.getElementById('chatbox');
 
     if (!province || !city) {
         addMessage("Please provide both Province and City.", "bot-msg");
         return;
     }
 
-    const userPrompt = `Cebuana branch "${province}" province, "${city}" city. Provide the exact address.`;
-    addMessage(userPrompt, "user-msg");
+    addMessage(`Searching for branches in ${city}, ${province}...`, "user-msg");
 
     try {
         const response = await fetch(GEN_AI_URL, {
@@ -31,16 +40,20 @@ async function askChatbot() {
 
         const data = await response.json();
 
-        // Check for API-specific errors (like wrong key)
         if (data.error) {
             throw new Error(data.error.message);
         }
 
-        const aiResponse = data.candidates[0].content.parts[0].text;
-        addMessage(aiResponse, "bot-msg");
+        // Correct path to extract text from Gemini's response
+        if (data.candidates && data.candidates[0].content) {
+            const aiResponse = data.candidates[0].content.parts[0].text;
+            addMessage(aiResponse, "bot-msg");
+        } else {
+            addMessage("No results found. Please try another city.", "bot-msg");
+        }
 
     } catch (error) {
-        addMessage(`Error: ${error.message}`, "bot-msg");
-        console.error("Detailed Error:", error);
+        addMessage(`System Error: ${error.message}`, "bot-msg");
+        console.error("API Error:", error);
     }
 }
