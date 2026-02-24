@@ -3,13 +3,22 @@ calbayog 2 - J.D. Avelino Street, Calbayog City, Samar
 calbayog 3 - Navarro Street, Calbayog City, Samar
 magsaysay, calbayog - RC Bldg, P-1, Magsaysay Blvd, Calbayog, 6710 Samar
 awang, calbayog -
-capoocan, calbayog -
+capoocan, calbayog - 
 Oquendo - 4GHP+GQ3, Calbayog-Catarman Rd, Calbayog, Samar
-Sta. Margarita - 
+Sta. Margarita - 12.039926036677281, 124.65613039323868
 Gandara - 12.014137396385218, 124.81193281394127
-Pasanghan - 
-Tarangnan -
-San Jorge -
-Ward 2, San Antonio - 
-Alegria -
-Allen -
+Pasanghan - 11.965280191623592, 124.72132102618708
+Tarangnan - 11.902419021331522, 124.74840317805986
+San Jorge - 11.97872309679018, 124.82890781850823
+Ward 2, San Antonio - 15.306996337285808, 120.85820891292042
+Alegria - 12.37586610168214, 124.34199894875718
+Allen - 12.501841962937815, 124.28255957950444
+
+
+cluster 2 - catarman 
+
+
+cluster 3 cabatlogan 
+
+cabatlogan 1 - 11.773653559951745, 124.88179666989194
+cabatlogan 2 - 11.77649941038048, 124.88336459495329
