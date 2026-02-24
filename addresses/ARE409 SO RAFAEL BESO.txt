@@ -1,0 +1,32 @@
+
+
+CLUSTER 1
+CLH YULO - CLH Yulo, Iznart cor. Yulo Street, Iloilo City, 5000
+CLH JM BASA - Cebuana Lhuillier Pawnshop - JM Basa, Market Square Building, J.M. Basa Street, Aduana, Iloilo City, 5000
+CLH MABINI - Cebuana Lhuillier Pawnshop - Mabini, #36 Mabini St, Iloilo City Proper, Iloilo City, 5000 Iloilo
+CLH JALANDONI- Cebuana Lhuillier Pawnshop - Jalandoni, 19 Jalandoni St, Iloilo City Proper, Iloilo City, 5000 Iloilo
+CLH ILOILO DOCTORS - MHW3+G9G CEBUANA LHUILLIER, Timawa St, Molo, Iloilo City, Iloilo
+CLH MOLO PLAZA - MGWV+6VX Cebuana Lhuillier Pawnshop - Molo Plaza, Lopez Jaena St, Molo, Iloilo City, 5000 Iloilo
+
+CLUSTER 2
+CLH HUERVANA - PH59+JG8 Sb Grains Supply, 49 Huervana St, La Paz, Iloilo City, 5000 Iloilo
+CLH LAPAZ - Cebuana Lhuillier Pawnshop - Lapaz, Tan Guzman Bldg, Rizal St, La Paz, Iloilo City, 5000
+CLH E.LOPEZ - Cebuana Lhuillier Pawnshop - E. Lopez, Corner E. Lopez, San Jose St, Iloilo City, 5000
+CLH JARO 1 - Cebuana Lhuillier Pawnshop - Jaro 1, Washington St, Jaro, Iloilo City, 5000 Iloilo
+CLH JARO 2 - Cebuana Lhuillier Pawnshop - Jaro 2, El 98 St, Jaro, Iloilo City, 5000 Iloilo
+
+CLUSTER 3
+CLH JARO 3 - Ka Splash Laundry Station, Jaro, Iloilo City, Iloilo
+CLH QUINTIN SALAS -Cebuana Lhuillier Pawnshop - Quintin Salas, Brgy. Quintin Salas, Alta Tierra Village, Jaro, Iloilo City, 5000
+CLH NEW LUCENA - Cebuana Lhuillier Pawnshop - New Lucena, Poblacion, New Lucena, Iloilo
+CLH POTOTAN - Mang Tinapay, Pototan, San Jose Street, Iloilo City, 5008
+CLH POTOTAN TOWN PLAZA -
+CLH DINGLE - Cebuana Lhuillier Pawnshop - Dingle, Muyco Street, Poblacion, Dingle, 5035
+
+CLUSTER 4
+CLH DUENAS - LoT 313, Cebuana Lhuillier Pawnshop - Duenas, B-1 Lagios St, Capuling, Dueñas, Iloilo
+CLH PASSI - Cebuana Lhuillier Pawnshop - Calamba 1, San Juan St, Passi City, 5037 Iloilo
+CLH PASSI HIWAY - Cebuana Lhuillier Pawnshop - Passi Highway, Simeon Aguilar St, Passi City, Iloilo
+CLH DORILLO - BART D' PIONEER ELECTRICAL SUPPLY, Dorillo St, Passi City, 5037 Iloilo
+CLH MAMBUSAO - CHHX+6MJ Mercury Drug - Mambusao Branch, Mambusao - Dumalag Rd, Mambusao, Capiz
+CLH JAMIDAN - Cebuana Lhuillier Pawnshop - Jamindan, San Sebastian, corner Sta. Cruz Streets, Jamindan, 5808 Capiz
