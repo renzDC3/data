@@ -1,0 +1,4 @@
+Goal	Code Snippet
+0 to 0.999...	Math.random()
+1 to 10	Math.floor(Math.random() * 10) + 1
+Custom Range	Math.floor(Math.random() * (max - min + 1)) +
