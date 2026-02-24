@@ -16,6 +16,21 @@ Allen - 12.501841962937815, 124.28255957950444
 
 
 cluster 2 - catarman 
+catarman 1 - 12.497577711980208, 124.64116131959659
+catarman 2 - 12.497163594975179, 124.6371368438583
+catarman J.P. Rizal -  12.497171930125718, 124.63714538160015
+Cawayan catarman - 12.513825017179425, 124.65716555144807
+dalakit catarman - 12.500881694994613, 124.63094450691679
+lope de vega - 
+mondragon - 
+san roque - 
+pambujan - 
+Rawis - 
+Catubig - 
+Laoang - 
+san jose - 
+lavezares -
+
 
 
 cluster 3 cabatlogan 
