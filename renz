@@ -1,0 +1,75 @@
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\admin>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::efd9:7c13:a96f:4165%12
+   IPv4 Address. . . . . . . . . . . : 192.168.100.114
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+C:\Users\admin>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::efd9:7c13:a96f:4165%12
+   IPv4 Address. . . . . . . . . . . : 192.168.100.114
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+C:\Users\admin>ipconfig /release
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::efd9:7c13:a96f:4165%12
+   Default Gateway . . . . . . . . . :
+
+C:\Users\admin>ipconfig /renew
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::efd9:7c13:a96f:4165%12
+   IPv4 Address. . . . . . . . . . . : 192.168.100.114
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.100.1
+
+C:\Users\admin>ipconfig /release
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::efd9:7c13:a96f:4165%12
+   Default Gateway . . . . . . . . . :
+
+C:\Users\admin>ipconfig /renew
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::efd9:7c13:a96f:4165%12
+   IPv4 Address. . . . . . . . . . . : 192.168.0.187
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
