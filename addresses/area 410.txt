@@ -1,29 +1,16 @@
-CLH sta barbara - CLH arroyo st.sta.barbara - 500m
 
-
-CLH arroyo st.sta.barbara - CLH cabatuan highway
- - 8.9km
-
-
-CLH cabatuan highway - CLH cabutuan - 400m
-
-
-CLH cabutuan - CLH maasin - 
-
-
-cabatuan - VFHM+R2 Cabatuan, Iloilo, Philippines
-
-cabatuan highway - VFGM+WM Cabatuan, Iloilo
-
-
-
-jibolo janiuay - XF8X+43 Janiuay, Iloilo
-janiuay don lutero - WGX4+G2 Janiuay, Iloilo\
-
-januay - 10.94749476073409, 122.50589941418323
-
-mina  -Cebuana Lhuillier Pawnshop - MINA HIGHWAY, 13 LEAÑO STREET, Malabon, 5032 Iloilo
-
-lambunao highway - 11.060877811976743, 122.48240754387601
-
-binangawan - 6HM8+G9 Bingawan, Iloilo
+Sta. Barbara	Corner Merlo & Roosevelt St., Poblacion, Sta. Barbara, Iloilo
+Arroyo St. Sta. Barbara	Arroyo Street, Brgy. Zone II, Sta. Barbara, Iloilo
+Cabatuan	VFHM+R2 Cabatuan, Iloilo, Philippines
+Cabatuan Highway	VFGM+WM Cabatuan, Iloilo
+Maasin	Rizal Street, Brgy. Naslo, Maasin, Iloilo
+Mina	Cebuana Lhuillier Pawnshop - MINA HIGHWAY, 13 LEAÑO STREET, Malabon, 5032 Iloilo
+Janiuay	10.94749476073409, 122.50589941418323
+Janiuay Don Lutero	WGX4+G2 Janiuay, Iloilo
+Jibolo Janiuay	XF8X+43 Janiuay, Iloilo
+Badiangan	Poblacion, Badiangan, Iloilo (Near the Municipal Hall)
+Lambunao	Ledesma Street, Poblacion Ilawod, Lambunao, Iloilo
+Lambunao Highway	11.060877811976743, 122.48240754387601
+Calinog	Osmeña Street, Poblacion Centro, Calinog, Iloilo
+Bingawan	6HM8+G9 Bingawan, Iloilo
+Tapaz	Poblacion, Tapaz, Capiz (Near Tapaz Public Market)
